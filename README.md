@@ -8,9 +8,13 @@ Para realizar essa análise, vamos seguir as seguintes etapas:
 
 - Carregamento dos dados: Vamos usar uma biblioteca como pandas em Python para carregar os dados em uma estrutura adequada para análise.
 
-Verificação dos dados: Vamos verificar se todos os dados estão disponíveis e se existem valores ausentes ou inconsistentes.
-•	Limpeza e transformação dos dados: Vamos tratar os dados ausentes e inconsistentes, converter os tipos de dados, e criar novas variáveis, se necessário, para facilitar a análise.
-•	Análise exploratória: Vamos usar gráficos e estatísticas descritivas para explorar os dados e identificar possíveis padrões e diagnósticos.
-•	Análise diagnóstica: Vamos usar testes estatísticos para avaliar a significância de diferenças entre grupos de candidatos, se houver.
-•	Parecer e resumo: Ao final da análise, vamos emitir um parecer com um resumo dos principais resultados e conclusões, que possam ajudar a empresa a tomar decisões mais informadas em relação à contratação de candidatos para trabalhar com Big Data e Data Science.
+- Verificação dos dados: Vamos verificar se todos os dados estão disponíveis e se existem valores ausentes ou inconsistentes.
+
+- Limpeza e transformação dos dados: Vamos tratar os dados ausentes e inconsistentes, converter os tipos de dados, e criar novas variáveis, se necessário, para facilitar a análise.
+
+- Análise exploratória: Vamos usar gráficos e estatísticas descritivas para explorar os dados e identificar possíveis padrões e diagnósticos.
+
+- Análise diagnóstica: Vamos usar testes estatísticos para avaliar a significância de diferenças entre grupos de candidatos, se houver.
+
+- Parecer e resumo: Ao final da análise, vamos emitir um parecer com um resumo dos principais resultados e conclusões, que possam ajudar a empresa a tomar decisões mais informadas em relação à contratação de candidatos para trabalhar com Big Data e Data Science.
 
