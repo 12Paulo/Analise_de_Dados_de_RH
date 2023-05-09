@@ -1,4 +1,4 @@
-# Analise_de_Dados_de_RH
+# Analise de Dados de RH
 
 A empresa de consultoria em Big Data e Data Science quer contratar Cientistas de Dados entre pessoas que obtiverem aprovação em seus cursos. Eles desejam identificar quais candidatos têm interesse em trabalhar para a empresa após o treinamento e quais estão fazendo o curso apenas para retornar ao mercado de trabalho. O objetivo é contratar profissionais com perfil adequado para reduzir custos e tempo de contratação, melhorar a qualidade do treinamento e planejamento dos cursos, e categorizar os candidatos.
 
