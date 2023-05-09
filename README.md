@@ -4,6 +4,7 @@ A empresa de consultoria em Big Data e Data Science quer contratar Cientistas de
 
 Para realizar a análise descritiva, diagnóstica e estatística de dados de Recursos Humanos (RH), vamos utilizar dados reais disponíveis publicamente que contêm informações demográficas, educacionais e de experiência de candidatos que se inscreveram para um treinamento de Big Data e Data Science em uma empresa de consultoria.
 O objetivo da análise é entender como os dados estão organizados, realizar limpeza e transformação dos dados, se necessário, identificar possíveis padrões e diagnósticos, e emitir um parecer com um resumo sobre os dados fornecidos. Isso ajudará a empresa a contratar os profissionais com o perfil adequado, reduzindo o custo e o tempo de contratação e melhorando a qualidade do treinamento ou planejamento dos cursos.
+
 Para realizar essa análise, vamos seguir as seguintes etapas:
 
 - Carregamento dos dados: Vamos usar uma biblioteca como pandas em Python para carregar os dados em uma estrutura adequada para análise.
