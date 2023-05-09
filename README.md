@@ -6,8 +6,9 @@ Para realizar a análise descritiva, diagnóstica e estatística de dados de Rec
 O objetivo da análise é entender como os dados estão organizados, realizar limpeza e transformação dos dados, se necessário, identificar possíveis padrões e diagnósticos, e emitir um parecer com um resumo sobre os dados fornecidos. Isso ajudará a empresa a contratar os profissionais com o perfil adequado, reduzindo o custo e o tempo de contratação e melhorando a qualidade do treinamento ou planejamento dos cursos.
 Para realizar essa análise, vamos seguir as seguintes etapas:
 
-•	Carregamento dos dados: Vamos usar uma biblioteca como pandas em Python para carregar os dados em uma estrutura adequada para análise.
-•	Verificação dos dados: Vamos verificar se todos os dados estão disponíveis e se existem valores ausentes ou inconsistentes.
+## Carregamento dos dados: Vamos usar uma biblioteca como pandas em Python para carregar os dados em uma estrutura adequada para análise.
+
+Verificação dos dados: Vamos verificar se todos os dados estão disponíveis e se existem valores ausentes ou inconsistentes.
 •	Limpeza e transformação dos dados: Vamos tratar os dados ausentes e inconsistentes, converter os tipos de dados, e criar novas variáveis, se necessário, para facilitar a análise.
 •	Análise exploratória: Vamos usar gráficos e estatísticas descritivas para explorar os dados e identificar possíveis padrões e diagnósticos.
 •	Análise diagnóstica: Vamos usar testes estatísticos para avaliar a significância de diferenças entre grupos de candidatos, se houver.
